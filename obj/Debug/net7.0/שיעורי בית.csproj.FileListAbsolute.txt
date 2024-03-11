@@ -1,0 +1,33 @@
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\שיעורי בית.exe
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\שיעורי בית.deps.json
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\שיעורי בית.runtimeconfig.json
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\שיעורי בית.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\שיעורי בית.pdb
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.AssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\staticwebassets\msbuild.build.שיעורי בית.props
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\scopedcss\bundle\שיעורי בית.styles.css
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.csproj.CopyComplete
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\refint\שיעורי בית.dll
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.pdb
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\שיעורי בית.genruntimeconfig.cache
+C:\Users\USER\Desktop\לימודים מקוונים\core\שיעורי בית\obj\Debug\net7.0\ref\שיעורי בית.dll
